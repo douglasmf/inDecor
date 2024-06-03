@@ -31,7 +31,13 @@ export const CtaStyle = styled.section`
             opacity: 1;
         }
     }
-    @media (max-width: 450px){
+    @media (max-width: 769px){
+        button{
+            width: 50%;
+        }
+    }
+    @media (max-width: 469px){
+        padding: 0 .5rem;
         button {
             width: 80%;
             opacity: 1;

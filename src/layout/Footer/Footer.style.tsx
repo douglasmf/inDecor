@@ -4,6 +4,7 @@ export const FooterStyle = styled.footer`
     text-align: center;
     color: var(--secondary);
     height: 250px;
+    padding: 0 .5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;

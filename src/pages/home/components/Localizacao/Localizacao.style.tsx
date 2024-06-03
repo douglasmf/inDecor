@@ -12,12 +12,12 @@ export const LocalizacaoStyle = styled.section`
     color: var(--text-color);
     margin-bottom: 3em;
 
-    @media (max-width: 450px){
+    @media (max-width: 769px){
         flex-direction: column;
         height: auto;
         text-align: center;
         padding: 2em 0;
-        margin-bottom: 0;
+        margin-bottom: 1em;
     }
 `;
 
@@ -33,12 +33,26 @@ export const Adress = styled.div`
         text-align: center;
         font-size: 1.3em;
     }
-    @media (max-width: 450px){
+    @media (max-width: 999px){
+        max-width: 32%;
+        svg {
+            font-size: 3em;
+        }
+        #adressDetails {
+            font-size: 1.1em;
+            text-align: justify;
+        }
+    }
+    @media (max-width: 769px){
         order: 2;
         flex-direction: column;
         max-width: 100%;
         svg {
             margin: .3em auto;
+        }
+        #adressDetails {
+            font-size: 1.1em;
+            text-align: center;
         }
     }
 `;
@@ -54,7 +68,13 @@ export const aboutLocation = styled.div`
     p {
         line-height: 1.5em;
     }
-    @media (max-width: 450px){
+    @media (max-width: 999px){
+        max-width: 40%;
+        h3{
+            font-size: 1.8em;
+        }
+    }
+    @media (max-width: 769px){
         order: 1;
         max-width: 100%;
         h3 {

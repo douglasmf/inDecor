@@ -31,6 +31,23 @@ export const DisclamerStyle = styled.div`
       margin-bottom: .5em;
     }
   }
+  @media (max-width: 769px){
+    padding-bottom: 1rem;
+    h2{
+      text-align: center;
+    }
+    .aboutEvent{
+      padding: 0 .5rem;
+      max-width: 560px;
+      text-align: center;
+    }
+    #dateTitle{
+      display: none;
+    }
+    .eventDate{
+      text-align: center;
+    }
+  }
 
   
 `;

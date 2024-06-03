@@ -10,8 +10,9 @@ export const HeaderStyle = styled.header`
   align-items: center;
   color: var(--text-color);
 
-  @media (max-width: 450px){
+  @media (max-width: 769px){
     flex-direction: column;
     height: auto;
+    padding: 1rem 0;
   }
 `;

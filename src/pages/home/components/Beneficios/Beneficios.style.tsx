@@ -16,11 +16,14 @@ export const BeneficiosList = styled.div`
   padding: 4em;
   width: 80%;
   margin: 0 auto;
-  @media (max-width: 450px){
+  @media (max-width: 769px){
     flex-direction: column;
     align-items: center;
     width: auto;
     padding: 2em;
+  }
+  @media (max-width: 1160px){
+    width: 100%;
   }
 `;
 
@@ -63,6 +66,24 @@ export const Beneficio = styled.div`
   .beneficioImg:hover{
     transform: scale(1.2);
   }
+  
+  
+  @media (max-width: 899px){
+    max-width: 25%;
+    .beneficioImgContainer{
+      height: 200px;
+      width: 200px;
+    }
+  }
+  @media (max-width: 769px){
+    max-width: 50%;
+    margin-bottom: 2em;
+    .beneficioImgContainer{
+      height: 250px;
+      width: 250px;
+    }
+  }
+
   @media (max-width: 450px){
     max-width: 100%;
     margin-bottom: 2em;

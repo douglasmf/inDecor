@@ -7,9 +7,9 @@ const Detalhes = () => {
             <div className="detailImgContainer">
                 <img src="/img/hrz-3.jpg" alt="Sala decorada em tons claros" />
             </div>
-            <S.DetailDescription>
+            <S.DetailDescription01>
                 <h3>Conheça os ambientes que você vai aprender a decorar</h3>
-            </S.DetailDescription>
+            </S.DetailDescription01>
         </S.Detail01>
         <S.Detail>
             <S.DetailDescription>

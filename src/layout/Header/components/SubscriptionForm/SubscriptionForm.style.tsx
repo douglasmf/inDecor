@@ -9,6 +9,17 @@ export const SubscriptionFormStyle = styled.div`
     color: var(--text-secondary);
     margin-bottom: 1em;
   }
+  @media (max-width: 1048px){
+    max-width: 32%;
+    p{
+      font-size: 1.3em;
+    }
+  }
+
+  @media (max-width: 769px){
+    max-width: 60%;
+  }
+
   @media (max-width: 450px){
     max-width: 70%;
     margin-bottom: 2em;
