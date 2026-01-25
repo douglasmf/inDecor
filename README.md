@@ -1,8 +1,18 @@
-# InDecor
+<h1 align="center">InDecor</h1>
 
-Chamada para um evento sobre design de interiores
+## 📌 Descrição
 
-Site no ar: https://indecor-eight.vercel.app/
+O Indecor é uma Chamada para um evento sobre design de interiores<br/>
+Site:  <a href="https://indecor-eight.vercel.app" target="_blank">https://my-finance-gules.vercel.app</a>
 
-![InDecor](https://portfolio-psi-ten-31.vercel.app//img/screenshots/inDecorLG.png)
+## 🚀 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3    
+- React  
+- Styled-Components
+
+<p align="center">
+  <img src="https://portfolio-psi-ten-31.vercel.app//img/screenshots/inDecorLG.png" width="700" alt="Screenshot do projeto">
+</p>  
 
