@@ -3,7 +3,7 @@
 ## 📌 Descrição
 
 O Indecor é uma Chamada para um evento sobre design de interiores<br/>
-Site:  <a href="https://indecor-eight.vercel.app" target="_blank">https://my-finance-gules.vercel.app</a>
+Site:  <a href="https://indecor-eight.vercel.app" target="_blank">https://indecor-eight.vercel.app</a>
 
 ## 🚀 Tecnologias Utilizadas
 
