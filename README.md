@@ -13,6 +13,6 @@ Site:  <a href="https://indecor-eight.vercel.app" target="_blank">https://indeco
 - Styled-Components
 
 <p align="center">
-  <img src="https://portfolio-xi-ten-54.vercel.app/screenshots/screenshot-indecor.png" width="700" alt="Screenshot do projeto">
+  <img src="https://portfolio-douglas-opal.vercel.app/projetos/inDecor.png" width="700" alt="Screenshot do projeto">
 </p>  
 
